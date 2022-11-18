@@ -1,12 +1,15 @@
-#### Para instalar las dependencias:
+#### Comprobar en actions pruebas unitarias pasando
+Run test -> jest --verbose --coverage -> % en verde
 
+#### Ramas de desarrollo
+main    -> produccion.
+release -> QA o Testing.
+develop -> desarrollo.
+
+#### Para instalar las dependencias:
 npm install
 
 #### Comandos de uso:
-
-Ejecutar web-sever local parcel:
-npm start
-
 Ejecutar pruebas de unidad de forma continua --watch:
 npm test
 
