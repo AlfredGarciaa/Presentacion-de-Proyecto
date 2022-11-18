@@ -1,5 +1,5 @@
 //////////////////        D E M O   //////////////////
-import sumar from "./sumador.js";
+import sumar from "./facturador.js";
 
 const first = document.querySelector("#primer-numero");
 const second = document.querySelector("#segundo-numero");
