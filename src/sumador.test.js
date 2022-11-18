@@ -1,3 +1,4 @@
+//////////////////        D E M O   //////////////////
 import sumar from "./sumador.js";
 
 describe("Sumar", () => {
@@ -5,3 +6,5 @@ describe("Sumar", () => {
     expect(sumar(3, 2)).toEqual(5);
   });
 });
+
+//////////////////        P R O Y E C T O   //////////////////
