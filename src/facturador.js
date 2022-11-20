@@ -26,7 +26,7 @@ class facturas {
     let y = 30;
     if((inicio == "18/11/2022") && (fin == "30/11/2022")) {
       restante = y - x;
-      
+
       return restante;
     }
   }
@@ -38,7 +38,7 @@ class facturas {
     let z = 50;
     if((categoria == "plan L a medida") && (addon == "datos XXl") && (addon_video == "you tube")) {
       monto = x + y + z;
-    
+
       return monto;
     }
   }
